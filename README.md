@@ -1,4 +1,4 @@
-## Olá amigos 👋
+## Olá amigos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px">
 
 ### Pode me chamar de Ceci! :D
 
