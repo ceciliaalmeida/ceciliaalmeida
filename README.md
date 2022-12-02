@@ -6,9 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/ceciliaalmeida/)
 
 
-### Sobre eu
+### ...
 
-Eu sou Analista de Sistemas, Técnica em Informática e Dev jr. 👨🏼‍🏫 - (Flutter, React Native, React, PHP, Node)
+Eu sou Analista de Sistemas, Técnica em Informática e Dev jr. 👨🏼‍🏫 - (Flutter, React Native, React, Angular, Node)
 
 ![ceciliaalmeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceciliaalmeida&show_icons=true)
 
